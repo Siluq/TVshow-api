@@ -24,7 +24,7 @@ export default {
   object-fit: contain;
   margin: auto;
 }
-img {
+.foto img {
   width: 25%;
 }
 </style>
